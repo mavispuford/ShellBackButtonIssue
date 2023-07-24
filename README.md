@@ -1,1 +1,3 @@
-<video src="Media/BackButtonIssueDemo.mp4" controls title="Demonstration Video"></video>
+![Alt text](Media/BackButtonIssue.gif)
+
+[Link to video if the above gif doesn't work](Media/BackButtonIssueDemo.mp4)
